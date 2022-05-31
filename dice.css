@@ -1,0 +1,15 @@
+body{
+    background-color: rgb(132, 77, 183);
+    justify-content: center;
+    display: flex;
+    color: rgb(221, 68, 41);
+    
+}
+#dice{
+    font-size: 400px;
+    
+}
+#dice:hover{
+    cursor: pointer;
+    color: yellow;
+}
